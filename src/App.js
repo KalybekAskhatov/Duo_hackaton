@@ -1,7 +1,9 @@
 import React from "react";
 
 const App = () => {
-  return <div>Kalybek</div>;
+  return <div>
+    Nurdan
+  </div>;
 };
 
 export default App;
